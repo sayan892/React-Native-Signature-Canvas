@@ -15,7 +15,6 @@ It has following features
 
 https://user-images.githubusercontent.com/64148552/232735157-7fa5c90a-9ef0-4bdd-b366-ac915f1ecc65.mp4
 
-![Screenshot_2023-04-18-14-33-11-42_66cea8a0c1![Screenshot_2023-04-18-14-32-47-70_66cea8a0c1c2b79dfd23120c8410a8cd 1](https://user-images.githubusercontent.com/64148552/232736338-3fb3b61a-f197-42fa-ab36-d4c6f3494781.jpg)
-![Screenshot_2023-04-18-14-32-55-88_66cea8a0c1c2b79dfd23120c8410a8cd 1](https://user-images.githubusercontent.com/64148552/232736446-d1ea1d28-8946-4f88-9217-f2cbbc371013.jpg)
-c2b79dfd23120c8410a8cd 1](https://user-images.githubusercontent.com/64148552/232735606-98f4e297-9541-4c24-b85b-9af172eb3c3f.jpg)
 
+![Screenshot_2023-04-18-14-33-11-42_66cea8a0c1c2b79dfd23120c8410a8cd 1](https://user-images.githubusercontent.com/64148552/232737557-4a0276a7-ad3b-4ed7-9801-b949f2f376eb.jpg)
+![Screenshot_2023-04-18-14-32-55-88_66cea8a0c1c2b79dfd23120c8410a8cd 1](https://user-images.githubusercontent.com/64148552/232737654-5c48c2bb-2f5c-47db-9c58-f00e58a8f037.jpg)
